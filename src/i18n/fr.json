@@ -8,11 +8,13 @@
     "Hello": "Salut 👋🏼! Je suis",
     "myName": "Ahmed Almory",
     "job": "Ingénieur logiciel",
-    "Aboutme": "Je suis un ingénieur logiciel passionné 🚀 d'Egypte 🇪🇬. avec plus de 3 ans d'expérience dans la fourniture de solutions technologiques, programmeur passionné et apprenant rapidement, obsédé par les détails et la qualité, essayant toujours d'améliorer le processus de développement et la qualité du code, j'aime les solutions simples et élégantes pour chaque problème.",
+    "Aboutme": "Je suis un ingénieur logiciel passionné 🚀 d'Egypte 🇪🇬. avec plus de 5 ans d'expérience dans la fourniture de solutions technologiques, programmeur passionné et apprenant rapidement, obsédé par les détails et la qualité, essayant toujours d'améliorer le processus de développement et la qualité du code, j'aime les solutions simples et élégantes pour chaque problème.",
     "iwork": "Je travaille avec...",
     "Myprojects": "Certains de mes projets...",
     "city": "Caire, Egypte",
     "SeeMore": "Voir Plus",
+    "AincanProject": "une plateforme qui simule le marché boursier local et les actions mondiales comme cela se fait sur le terrain, sans présence d'équilibres financiers ni de propriété réelle des titres.",
+    
     "TaifAppProject": "Un site web pour la ville de Taif, en Arabie Saoudite",
     "SemseemProject": "plate-forme de commerce électronique faite avec larvel et Vue.js",
     "InayahProject": "Une plateforme en ligne pour l’embauche et la présentation d’une baby-sitter et d’une nounou faites de larvel et de Vue.js",
@@ -64,5 +66,13 @@
     "Send": "Envoyer",
     "Email Sent!": "Email envoyé!",
     "Email Not Sent!": "Email non envoyé!",
-    "Thanks": "Merci pour votre message, je vous répondrai bientôt 🙏"
+    "Thanks": "Merci pour votre message, je vous répondrai bientôt 🙏",
+    "Senior Backend Engineer": "Ingénieur Back-end Senior",
+    "2020-Present": "2020-Présent",
+    "Syscape": "Syscape",
+    "Backend Engineer": "Ingénieur Back-end",
+    "Almusand": "Almusand",
+    "Const Tech": "Const Tech",
+    "Bachelor in Computer Science": "Baccalauréat en informatique",
+    "Cairo Higher Institute": "Institut supérieur du Caire"
 }
