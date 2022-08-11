@@ -13,7 +13,7 @@
           <h1 class="text-turquoise text-4xl 2xl:text-6xl tracking-normal font-extrabold focus-in-expand hover:text-fakhti">{{ $t('job') }}</h1>
         </div>
         <div>
-          <p class="text-sm lg:text-base leading-loose tracking-relaxed lg:leading-loose lg:tracking-relaxed text-gray-500 dark:text-gray-300  text-left whitespace-pre-line">{{$t('Aboutme')}}</p>
+          <p class="text-sm lg:text-base leading-loose tracking-relaxed lg:leading-loose lg:tracking-relaxed text-gray-500 dark:text-gray-300 whitespace-pre-line" :class="this.$i18n.locale == 'ar' ? 'text-right' : 'text-left'">{{$t('Aboutme')}}</p>
         </div>
         
         <!-- See my resume -->

@@ -6,22 +6,22 @@
                 <div class="max-w-md mx-auto">
                     <div>
                         <h1 class="text-3xl font-extrabold dark:text-gray-300">{{$t('Contact')}}</h1>
-                        <p class="mt-3 text-sm md:text-base text-gray-500 dark:text-gray-300 leading-loose tracking-relaxed md:leading-loose md:tracking-relaxed text-left whitespace-pre-line">{{$t('contactslogan')}}</p>
+                        <p class="mt-3 text-sm md:text-base text-gray-500 dark:text-gray-300 leading-loose tracking-relaxed md:leading-loose md:tracking-relaxed whitespace-pre-line" :class="this.$i18n.locale == 'ar' ? 'text-right' : 'text-left'">{{$t('contactslogan')}}</p>
                         <hr class="mt-3 border-gray-300">
                     </div>
                     <div class="divide-y divide-gray-200">
                         <form @submit.prevent="sendEmail" class="pt-4 text-base leading-6 space-y-2 text-gray-700 sm:text-lg sm:leading-7 -mb-8">
-                            <label class="block font-bold text-sm text-gray-500 dark:text-gray-300 leading-loose tracking-relaxed text-left">
+                            <label class="block font-bold text-sm text-gray-500 dark:text-gray-300 leading-loose tracking-relaxed " :class="this.$i18n.locale == 'ar' ? 'text-right' : 'text-left'">
                                 {{$t('Name')}} <span class="text-red-500">*</span>
                             </label>
                             <input required v-model="from_name" class="appearance-none text-sm block w-full bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 border rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white" id="grid-first-name" type="text" placeholder="Name">
                             
-                            <label class="block font-bold text-sm text-gray-500 dark:text-gray-300 leading-loose tracking-relaxed text-left">
+                            <label class="block font-bold text-sm text-gray-500 dark:text-gray-300 leading-loose tracking-relaxed " :class="this.$i18n.locale == 'ar' ? 'text-right' : 'text-left'">
                                 {{$t('Email')}} <span class="text-red-500">*</span>
                             </label>
                             <input v-model="email" required class="appearance-none text-sm block w-full bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 border rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white" id="grid-first-name" type="email" placeholder="Email">
                             
-                            <label class="block font-bold text-sm text-gray-500 dark:text-gray-300 leading-loose tracking-relaxed text-left">
+                            <label class="block font-bold text-sm text-gray-500 dark:text-gray-300 leading-loose tracking-relaxed " :class="this.$i18n.locale == 'ar' ? 'text-right' : 'text-left'">
                                 {{$t('Message')}} <span class="text-red-500">*</span>
                             </label>
                             <textarea v-model="message" required class="resize-y text-sm py-3 px-4 border focus:outline-none focus:bg-white rounded-md w-full bg-gray-200 dark:bg-gray-700 dark:text-gray-300" placeholder="Your message..."></textarea>

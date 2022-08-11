@@ -1,5 +1,5 @@
 <template>
-    <div class="relative inline-block text-left" @keydown.esc="hide" v-on-clickaway="hide">
+    <div class="relative inline-block " :class="this.$i18n.locale == 'ar' ? 'text-right' : 'text-left'" @keydown.esc="hide" v-on-clickaway="hide">
         <div>
             <button @click="showDropDown=!showDropDown" type="button"
                     class="flex items-center text-sm font-medium text-gray-500 dark:text-gray-300
