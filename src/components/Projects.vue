@@ -4,6 +4,28 @@
             {{$t('Projects')}}
         </h1>
         <div class="flex flex-wrap bg-white dark:bg-gray-700 rounded -mx-px overflow-hidden">
+            <div class="w-full xl:w-1/2 hover14 overflow-hidden border-b border-r">
+                <div>
+                    <a target="_blank" href="https://fatoorah.sa/">
+                        <figure>
+                            <img class="w-full" src="../assets/images/projects/fatoorah.png" alt="Fatoorah Project">
+                        </figure>
+                    </a>
+                </div>
+            </div>
+            <div class="w-full overflow-hidden xl:w-1/2 border-b">
+                <div class="flex flex-col justify-center items-center space-y-6 p-8 mt-8 ">
+                    <div>
+                        <h1 class="text-center text-fakhti font-bold text-2xl">Fatoorah</h1>
+                        <hr class="my-3 border-2">
+                    </div>
+                    <div>
+                        <p style="max-width:500px" class="text-sm lg:text-base leading-loose tracking-relaxed lg:leading-loose lg:tracking-relaxed text-gray-500 dark:text-gray-300 tracking-relaxed text-center whitespace-pre-line">
+                            {{$t('FatoorahProject')}}
+                        </p>
+                    </div>
+                </div>
+            </div>
             <!-- 1 -->
             <div class="w-full hover14 overflow-hidden border-b block xl:hidden">
                 <div class="p-4">

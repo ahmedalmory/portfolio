@@ -13,8 +13,8 @@
     "Myprojects": "Certains de mes projets...",
     "city": "Caire, Egypte",
     "SeeMore": "Voir Plus",
+    "FatoorahProject": "Fatoorah.sa est une plateforme en ligne en Arabie saoudite qui propose des services de paiement et de facturation. Elle offre une solution pratique aux entreprises et aux particuliers pour créer des factures, suivre les paiements et accepter les paiements en ligne. La plateforme vise à simplifier la gestion financière et à rationaliser les transactions.",
     "AincanProject": "une plateforme qui simule le marché boursier local et les actions mondiales comme cela se fait sur le terrain, sans présence d'équilibres financiers ni de propriété réelle des titres.",
-    
     "TaifAppProject": "Un site web pour la ville de Taif, en Arabie Saoudite",
     "SemseemProject": "plate-forme de commerce électronique faite avec larvel et Vue.js",
     "InayahProject": "Une plateforme en ligne pour l’embauche et la présentation d’une baby-sitter et d’une nounou faites de larvel et de Vue.js",
@@ -53,6 +53,7 @@
     "Arabic": "Arabe",
     "English": "Anglais",
     "French": "Français",
+    "German": "Allemande",
     "Turkish": "turque",
     "Native": "Langue maternelle",
     "Advanced": "C1",
