@@ -239,9 +239,10 @@ export default {
   data(){
     return{
       experiences:[
-        {name: 'Senior Backend Engineer', date: '2020-Present', company: 'Syscape'},
-        {name: 'Backend Engineer', date: '2021-2021', company: 'Almusand'},
-        {name: 'Backend Engineer', date: '2020-2022', company: 'Const Tech'},
+        {name: 'Senior Back-End Developer', date: 'Jul. 2023 – Present', company: 'Dot'},
+        {name: 'Software Development Team Lead', date: 'Mar. 2023 – May. 2023', company: 'Almusand'},
+        {name: 'Senior Full-Stack Developer Engineer', date: 'Dec. 2022 – Feb. 2023', company: 'Almusand'},
+        {name: 'Back-End Developer', date: 'Dec. 2020 – Nov. 2022', company: 'Const Tech'},
       ],
       formations:[
         {name: 'Bachelor in Computer Science', date: '2017-2021', school: 'Cairo Higher Institute'},
@@ -250,7 +251,7 @@ export default {
         {name: 'Arabic', level: 'Native'},
         {name: 'English', level: 'Advanced'},
         {name: 'Turkish', level: 'Intermediate'},
-        {name: 'French', level: 'Beginner'},
+        {name: 'German', level: 'Beginner'},
       ]
     }
   }
