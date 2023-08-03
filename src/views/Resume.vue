@@ -239,9 +239,10 @@ export default {
   data(){
     return{
       experiences:[
-        {name: 'Senior Back-End Developer', date: 'Jul. 2023 – Present', company: 'Dot'},
+        {name: 'Senior Full-Stack Developer', date: 'Aug. 2023 – Present', company: 'keyframe'},
+        {name: 'Senior Back-End Developer', date: 'Jul. 2023 – Aug. 2023', company: 'Dot'},
         {name: 'Software Development Team Lead', date: 'Mar. 2023 – May. 2023', company: 'Almusand'},
-        {name: 'Senior Full-Stack Developer Developer', date: 'Dec. 2022 – Feb. 2023', company: 'Almusand'},
+        {name: 'Senior Full-Stack Developer', date: 'Dec. 2022 – Feb. 2023', company: 'Almusand'},
         {name: 'Back-End Developer', date: 'Dec. 2020 – Nov. 2022', company: 'Const Tech'},
       ],
       formations:[
