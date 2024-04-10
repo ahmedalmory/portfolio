@@ -1,7 +1,7 @@
 <template>
   <div class="flex space-x-10 2xl:text-4xl text-3xl slit-in-diagonal-1">
     <div>
-      <a href="https://twitter.com/ahmedalmory02" target="_blank"
+      <a href="https://twitter.com/ahmedalmory9" target="_blank"
         ><i class="fab fa-twitter-square text-gray-800 dark:text-blueGray-300 dark:hover:text-turquoise hover:text-turquoise"></i
       ></a>
     </div>

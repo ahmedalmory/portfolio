@@ -23,7 +23,7 @@
             <div><h1 class="text-lg font-semibold">{{ $t('Contact') }}</h1></div>
             <div class="flex justify-around items-center space-x-4">
               <div><i class="fas fa-envelope text-lg"></i></div>
-              <div><h4 class="text-sm lg:text-base text-gray-700 lg:leading-loose leading-relaxed tracking-relaxed">ahmedalmory02@gmail.com</h4></div>
+              <div><h4 class="text-sm lg:text-base text-gray-700 lg:leading-loose leading-relaxed tracking-relaxed">ahmedalmory99@gmail.com</h4></div>
             </div>
             <div class="flex justify-around items-center space-x-4">
               <div><i class="fas fa-phone-alt text-lg"></i></div>
@@ -50,7 +50,7 @@
             <div><h1 class="text-lg font-semibold">{{$t('Links')}}</h1></div>
             <div class="flex justify-around items-center space-x-4">
               <div><i class="fab fa-twitter text-lg"></i></div>
-              <div><a href="https://twitter.com/ahmedalmory02" target="_blank" class="text-sm lg:text-base hover:text-turquoise text-gray-700 lg:leading-loose leading-relaxed tracking-relaxed">Twitter</a></div>
+              <div><a href="https://twitter.com/ahmedalmory9" target="_blank" class="text-sm lg:text-base hover:text-turquoise text-gray-700 lg:leading-loose leading-relaxed tracking-relaxed">Twitter</a></div>
             </div>
             <div class="flex justify-around items-center space-x-4">
               <div><i class="fab fa-linkedin text-lg"></i></div>
@@ -239,8 +239,8 @@ export default {
   data(){
     return{
       experiences:[
-        {name: 'Senior Full-Stack Developer', date: 'Aug. 2023 – Present', company: 'keyframe'},
-        {name: 'Senior Back-End Developer', date: 'Jul. 2023 – Aug. 2023', company: 'Dot'},
+        {name: 'Senior Back-End Developer', date: 'Nov. 2023 – Present', company: 'Integrated System Company'},
+        {name: 'Senior Full-Stack Developer', date: 'Jul. 2023 – Oct. 2023', company: 'keyframe'},
         {name: 'Software Development Team Lead', date: 'Mar. 2023 – May. 2023', company: 'Almusand'},
         {name: 'Senior Full-Stack Developer', date: 'Dec. 2022 – Feb. 2023', company: 'Almusand'},
         {name: 'Back-End Developer', date: 'Dec. 2020 – Nov. 2022', company: 'Const Tech'},
