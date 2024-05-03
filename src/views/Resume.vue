@@ -50,7 +50,7 @@
             <div><h1 class="text-lg font-semibold">{{$t('Links')}}</h1></div>
             <div class="flex justify-around items-center space-x-4">
               <div><i class="fab fa-twitter text-lg"></i></div>
-              <div><a href="https://twitter.com/ahmedalmory9" target="_blank" class="text-sm lg:text-base hover:text-turquoise text-gray-700 lg:leading-loose leading-relaxed tracking-relaxed">Twitter</a></div>
+              <div><a href="https://twitter.com/ahmedalmory99" target="_blank" class="text-sm lg:text-base hover:text-turquoise text-gray-700 lg:leading-loose leading-relaxed tracking-relaxed">Twitter</a></div>
             </div>
             <div class="flex justify-around items-center space-x-4">
               <div><i class="fab fa-linkedin text-lg"></i></div>
