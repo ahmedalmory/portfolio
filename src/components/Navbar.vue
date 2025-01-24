@@ -54,8 +54,9 @@ export default {
           // { flag: 'ma', language: 'ma', title: 'Tifinagh' },
           { id: 0, flag: "us", language: "en", title: "English" },
           { id: 1, flag: "eg", language: "ar", title: "Arabic" },
-          { id: 2, flag: "tr", language: "tr", title: "Turkish" },
-          { id: 3, flag: "fr", language: "fr", title: "French" },
+          { id: 2, flag: "de", language: "de", title: "German" },
+          { id: 3, flag: "tr", language: "tr", title: "Turkish" },
+          { id: 4, flag: "fr", language: "fr", title: "French" },
         ],
       }
     },
